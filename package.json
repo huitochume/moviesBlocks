@@ -1,5 +1,5 @@
 {
-  "name": "sistemaWEB",
+  "name": "movies57Blocks",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "dev": "nodemon index.js --exec babel-node"
   },
   "keywords": [],
-  "author": "",
+  "author": "David Ramírez",
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.26.0",
